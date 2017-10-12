@@ -1,0 +1,33 @@
+mon.ub -> intranet de els estudinats UB. 
+jordi.vitria@ub.edu 
+campusvirtual2.ub.edu  
+
+agvzhh.tmp
+bkiq78
+
+@datascienceub @databeersbcn alumni@datasciendeub 
+
+projecte 
+
+
+https://github.com/DataScienceub/postgrau
+https://github.com/algorismes
+
+
+
+nanar on em deixat el notbook. i allí "jupiper"
+
+anar al anaconda navigator, anar al directori on hem deixat el que hem descarregat i allí jupyter.
+
+
+import numpy --> modul matematic per a fer calculs. el python es dolent amb els numeros, per això posaem aquest cosa. 
+
+fer sempre import xxx as yyy 
+
+tab o 4 espais per a fer la identació. 
+
+
+numpy 
+pandas 
+
+ 

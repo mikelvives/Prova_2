@@ -1,0 +1,18 @@
+*això no ho he pillat: el que ha fet servir el tio a la pissara: sieveExample. hauria de ser un notebook. 
+=> estava al GIT. Cal que aprengui el puto GIt!!! JODER
+
+atenció amb moduls que s'han de poder importar despres. cal posar un if __main__ == '__main__': 
+--> quan fem un import això no s'executa, amb elque nlo tenim el problem ade realitzar accions directament en l'import. 
+
+assertions:chivatos ==> no usar prints, usar assertions. 
+ex: assert n >= 0.0, 'Data should only contain positive values'
+
+un cop ho tenim debugat els passem a araise Exception('Invalid X coordinates')
+
+debuger python: 
+
+IDE Spyder. 
+
+%prun? => profile run. com el proifile però amb el run alhora. 
+
+
